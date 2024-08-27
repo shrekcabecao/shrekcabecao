@@ -12,7 +12,7 @@ mateus.moura.luz@escola.pr.gov.br
 
 @mateusmoura
 
-!.[].(https://media.tenor.com/mtiOW6O-k8YAAAAM/shrek-shrek-rizz.gif)
+![](https://media.tenor.com/mtiOW6O-k8YAAAAM/shrek-shrek-rizz.gif)
 
 
 
